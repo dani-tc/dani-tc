@@ -16,7 +16,10 @@ Hi! I'm **Daniel Torres**, a passionate **Quality Engineer** and **Computer Scie
 - Teamwork & Communication  
 - Analytical Problem-Solving  
 - Public Speaking  
-- Idea Prototyping & Collaboration  
+- Idea Prototyping & Collaboration
+ 
+🔗 **Find Me Online:**
+<br><br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danieltorres5y7p2d/)
 
 ---
 
